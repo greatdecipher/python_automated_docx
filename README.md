@@ -1,4 +1,5 @@
-# This is a docx template that is automated by python as a DATA entry form.
+# SOFTWARE FAIR USE CONTRACT GENERATOR
+This is a docx template that is automated by python as a DATA entry form.
 
 form.py is a testing template for the code run the simple_gui instead.
 
